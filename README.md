@@ -10,7 +10,7 @@ Tkinter
 
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+<img src="Capture.PNG" width="500px">
 
 
 ## Features
